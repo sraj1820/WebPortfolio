@@ -52,7 +52,7 @@ let resumeData = {
         "description":" Enhanced sales techniques and marketing plans to strengthen business development efforts. Boosted revenue by bringing in and cementing relationships with new clients and optimizing servicing of existing customer accounts."
       }
     ],
-    "skillsDescription":"Languages/Technologies",
+    "skillsDescription":"Languages/Technologies:",
     "skills":[
       {
         "skillname":"HTML5"
@@ -69,6 +69,18 @@ let resumeData = {
       ,
       {
         "skillname":"Express"
+      },
+      {
+        "skillname":"MongoDB"
+      },
+      {
+        "skillname":"PostgreSQL"
+      },
+      {
+        "skillname":"Git"
+      },
+      {
+        "skillname":"Python"
       }
     ],
     "portfolio":[
