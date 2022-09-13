@@ -18,4 +18,4 @@ Projects Page:
 
 ### Getting Started
 
-To view the website please click the following [link]() 
+To view the website please click the following [link](https://rajshah.info) 
